@@ -1,0 +1,78 @@
+.bg-black {
+  background: black;
+}
+
+p {
+  margin: 0;
+}
+
+.btn-black {
+  background: skyblue;
+  color: #fff;
+}
+
+.text-black {
+  color: skyblue;
+}
+
+.border-black {
+  border-color: skyblue;
+}
+
+hr.new {
+  border: 1px solid skyblue;
+  margin: 1.5vh 0;
+}
+
+.bg-light {
+  background: #F3F2F8!important;
+}
+
+.text-small {
+  font-size: 0.8em;
+}
+
+.a-black {
+  color: skyblue;
+  text-decoration: none!important;
+}
+
+.border-width-2 {
+  border-width: 2px !important;
+}
+
+.border-radius-3 {
+  border-radius: 3px !important;
+}
+
+.white-div-1 {
+  padding: 28px 142px;
+  border-radius: 6px;
+  width: 580px;
+}
+
+.white-div-2 {
+  padding: 142px 42px;
+  border-radius: 6px;
+  width: 580px;
+}
+
+/* Small devices (landscape phones) */
+@media (max-width: 375px) {
+  .white-div-1 {
+    width: 95vw;
+    padding: 8vh 8vw;
+  }
+}
+
+/* Small devices (landscape phones) */
+@media (min-width: 372px) and (max-width: 576px) {
+  .white-div-1 {
+    width: 85vw;
+    padding: 8vh 15vw;
+  }
+}
+
+.custom-tooltip {
+  border: 1px lightgray solid;
+}
