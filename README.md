@@ -6,3 +6,6 @@ Aplicação Web desenvolvida em ReactJS que se comunica com o ESP8266 NodeMcu. O
 - JavaScript + ReactJS para desenvolvimento da UI
 - Axios para requisições ao servidor
 - WiFiServer para criação do servidor no NodeMcu
+
+## Circuito
+![Circuito](/imgs/circuito.jpeg)
